@@ -27,9 +27,11 @@ body {
     text-align: center;
     font-size: 1.7rem;
     background-color: #6c79db;
+    font-family: 'Pokemon Solid', sans-serif;
+    letter-spacing: 8px;
+    color: #fff;
     border-radius: 15px;
-    padding: 5px;
-    width: 120px;
+    width: 200px;
     height: 40px;
 }
 
