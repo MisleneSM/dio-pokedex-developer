@@ -171,6 +171,16 @@ body {
         grid-template-columns: 1fr 1fr 1fr 1fr;
     }
 
+    .pokemon .detail img {
+        position: relative;
+        right: 0px;
+        margin-top: 20px;
+        max-width: 100%;
+        width: 150px;
+        height: 80px;
+        align-self: flex-end; /*Joga os elementos para um lado do outro*/
+    }
+
     .pagination button {
         font-size: 0.9rem;
     }
