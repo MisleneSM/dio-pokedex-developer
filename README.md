@@ -29,14 +29,13 @@ Para acessar o resultado do projeto basta clicar aqui no [Link](https://develope
 
 #### Resultado Final do Projeto
 
-##### Desktop
-
-![Desktop](./assets/image.png)
-
-
 ##### Mobile
 
 ![Mobile](./assets/imageMobile.png)
+
+##### Desktop
+
+![Desktop](./assets/image.png)
 
 ## 3. Tecnologias Utilizadas✅ 
 
